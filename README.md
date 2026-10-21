@@ -2,7 +2,10 @@
   <a href="https://tensormorph.ai"
       alt="Tensormorph"
     />
-    <img alt="Tensormorph Logo" src="https://raw.githubusercontent.com/Tensormorph/Tensormorph/refs/heads/main/tensormorph-text-animated.svg"/>
+    <img alt="Tensormorph Logo" src="https://raw.githubusercontent.com/Tensormorph/Tensormorph/refs/heads/main/tensormorph-text-animated.svg"
+      alt="Tensormorph"
+    width="450"
+      />
   </a>
   <br/>
   <br/>
