@@ -35,7 +35,7 @@
 </h3>
 
 <p align="center">
-  Explore, inspect, compare, debug, profile, and morph open-weight AI models —
+  Explore, inspect, compare, debug, profile, and morph open-weight AI models,
   from complete architectures down to individual scalar values.
 </p>
 
